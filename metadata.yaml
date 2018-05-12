@@ -1,0 +1,35 @@
+_repo: The-Task-of-Social-Hygiene_22090
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+description: ''
+gutenberg_issued: '2007-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Sexual ethics'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Eugenics'
+tableOfContents: Introduction -- The changing status of women -- The new aspect of
+  the woman's movement -- The emancipation of women in relation to romantic love --
+  The significance of a falling birth-rate -- Eugenics and love -- Religion and the
+  child -- The problem of sexual hygiene -- Immorality and the law -- The war against
+  war -- The problem of an international language -- Individualism and socialism.
+title: The Task of Social Hygiene
+url: http://www.gutenberg.org/ebooks/22090
