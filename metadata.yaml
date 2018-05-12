@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2654
     wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22090#The-Task-of-Social-Hygiene
 gutenberg_issued: '2007-07-17'
 gutenberg_type: Text
 identifiers:
